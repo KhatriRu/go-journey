@@ -1,6 +1,5 @@
 # go-journey
-Notes and code snippets from my Go programming study
-Also, this repo tracks my journey learning the Go programming language.
+Notes and code snippets from my Go programming study. Also, this repo tracks my journey learning the Go programming language.
 
 ## Why Go?
 I'm exploring Go because it's fast, modern, and great for building backend systems.

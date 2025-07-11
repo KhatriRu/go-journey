@@ -1,10 +1,6 @@
-/*This is a program that asks the user to input revenue, expenses and the tax rate so 
-  they can get their total earning before tax. Also, their total profit and the ratio of earning before and after tax. 
-*/
-
 package main
 
-import (
+/*import (
 	"fmt"
 )
 
@@ -14,7 +10,7 @@ func main() {
 	var expenses float64
 	var taxRate float64
 
-	fmt.Print("Please enter the total revenue :")
+	fmt.Print("Please enter the  total revenue :")
 	fmt.Scan(&revenue)
 
 	fmt.Print("Please enter the total expenses :")
@@ -33,3 +29,4 @@ func main() {
 	fmt.Println("The ratio of EBT and Profit is:", ratio)
 
 }
+*/
